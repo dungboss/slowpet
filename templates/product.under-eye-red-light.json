@@ -1,0 +1,954 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "product_title",
+          "settings": {
+            "uppercase_title": false,
+            "desktop_size": 36,
+            "alignment": "left",
+            "mobile_size": 26,
+            "mobile_alignment": "mobile-left",
+            "margin_top": 0,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "rating_stars": {
+          "type": "rating-stars",
+          "settings": {
+            "rating": 4.6,
+            "star_color": "#ffcc00",
+            "bg_stars_style": "full",
+            "bg_star_color": "#ececec",
+            "label": "(2,341 Reviews)",
+            "size": 16,
+            "alignment": "flex-start",
+            "scroll_id": "reviews",
+            "margin_top": 0,
+            "margin_bottom": 9
+          },
+          "blocks": {}
+        },
+        "trust_fda": {
+          "type": "text-with-icon",
+          "name": "FDA Cleared",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 14,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#c2185b",
+            "font_family": "body",
+            "icon_scale": 100,
+            "icon_color": "#c2185b",
+            "width": "auto",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "styling_container": "none",
+            "enable_bg": false,
+            "bg_color": "#fce4ec",
+            "border_size": 0,
+            "border_style": "solid",
+            "border_color": "#f48fb1",
+            "corner_radius": 20,
+            "padding": 3,
+            "text_1": "<strong>FDA Cleared</strong>",
+            "icon_1": "verified",
+            "filled_icon_1": true,
+            "text_2": "",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "text_3": "",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "text_4": "",
+            "icon_4": "check_circle",
+            "filled_icon_4": false,
+            "margin_top": 9,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "trust_wavelength": {
+          "type": "text-with-icon",
+          "name": "Proven Wavelengths",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 14,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#c2185b",
+            "font_family": "body",
+            "icon_scale": 100,
+            "icon_color": "#c2185b",
+            "width": "auto",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "styling_container": "none",
+            "enable_bg": false,
+            "bg_color": "#fce4ec",
+            "border_size": 0,
+            "border_style": "solid",
+            "border_color": "#f48fb1",
+            "corner_radius": 20,
+            "padding": 3,
+            "text_1": "<strong>Proven Wavelengths</strong>",
+            "icon_1": "lightbulb",
+            "filled_icon_1": true,
+            "text_2": "",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "text_3": "",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "text_4": "",
+            "icon_4": "check_circle",
+            "filled_icon_4": false,
+            "margin_top": 6,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "trust_timer": {
+          "type": "text-with-icon",
+          "name": "10-Minute Session",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 14,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#c2185b",
+            "font_family": "body",
+            "icon_scale": 100,
+            "icon_color": "#c2185b",
+            "width": "auto",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "styling_container": "none",
+            "enable_bg": false,
+            "bg_color": "#fce4ec",
+            "border_size": 0,
+            "border_style": "solid",
+            "border_color": "#f48fb1",
+            "corner_radius": 20,
+            "padding": 3,
+            "text_1": "<strong>10-Minute Session</strong>",
+            "icon_1": "timer",
+            "filled_icon_1": true,
+            "text_2": "",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "text_3": "",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "text_4": "",
+            "icon_4": "check_circle",
+            "filled_icon_4": false,
+            "margin_top": 6,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "trust_guarantee": {
+          "type": "text-with-icon",
+          "name": "30-Day Guarantee",
+          "settings": {
+            "mobile_text_size": 13,
+            "desktop_text_size": 14,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#c2185b",
+            "font_family": "body",
+            "icon_scale": 100,
+            "icon_color": "#c2185b",
+            "width": "auto",
+            "direction": "horizontal",
+            "column_gap": 3,
+            "styling_container": "none",
+            "enable_bg": false,
+            "bg_color": "#fce4ec",
+            "border_size": 0,
+            "border_style": "solid",
+            "border_color": "#f48fb1",
+            "corner_radius": 20,
+            "padding": 3,
+            "text_1": "<strong>30-Day Money-Back Guarantee</strong>",
+            "icon_1": "workspace_premium",
+            "filled_icon_1": true,
+            "text_2": "",
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "text_3": "",
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "text_4": "",
+            "icon_4": "check_circle",
+            "filled_icon_4": false,
+            "margin_top": 6,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "price": {
+          "type": "product_price",
+          "settings": {
+            "text_color": "#880e4f",
+            "sale_text_color": "#c2185b",
+            "compare_at_text_color": "#9e9e9e",
+            "desktop_size": 28,
+            "alignment": "left",
+            "mobile_size": 24,
+            "mobile_alignment": "mobile-left",
+            "margin_top": 15,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "variant_picker": {
+          "type": "product_product-variant-picker-block",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle",
+            "swatch_size": "medium",
+            "show_option_name": true,
+            "margin_top": 9,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "buy_buttons": {
+          "type": "product_buy-buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "button_label": "Add to Cart",
+            "margin_top": 15,
+            "margin_bottom": 0
+          },
+          "blocks": {
+            "atc_qty": {
+              "type": "product_atc-quantity-selector",
+              "settings": {
+                "show_quantity_selector": true
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["atc_qty"]
+        },
+        "shipping": {
+          "type": "product_shipping-checkpoints",
+          "settings": {
+            "icon_color": "#c2185b",
+            "text_color": "#555555",
+            "margin_top": 15,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
+        "sticky_atc": {
+          "type": "product_sticky-atc",
+          "settings": {
+            "enabled": true,
+            "bg_color": "#c2185b",
+            "text_color": "#ffffff"
+          },
+          "blocks": {}
+        },
+        "desc_row_1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Product Description",
+            "icon": "none",
+            "row_open": true,
+            "page": ""
+          },
+          "blocks": {}
+        },
+        "desc_row_2": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "How to Use",
+            "icon": "none",
+            "row_open": false,
+            "page": ""
+          },
+          "blocks": {}
+        },
+        "desc_row_3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "none",
+            "row_open": false,
+            "page": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "rating_stars",
+        "trust_fda",
+        "trust_wavelength",
+        "trust_timer",
+        "trust_guarantee",
+        "price",
+        "variant_picker",
+        "buy_buttons",
+        "shipping",
+        "sticky_atc",
+        "desc_row_1",
+        "desc_row_2",
+        "desc_row_3"
+      ],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "color_scheme": "custom",
+        "custom_colors_background": "#fff5f7",
+        "custom_colors_text": "#3d0c1a",
+        "custom_colors_solid_button_background": "#c2185b",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#c2185b",
+        "image_zoom": "none",
+        "thumbnails_ratio": "square",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "media_size": "medium",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_position": "bottom",
+        "desktop_thumbnails_count": 5,
+        "desktop_vertical_thumbnails_width": 16,
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 12,
+        "mobile_spacing_pixels": 8,
+        "mobile_arrows_position": "sides",
+        "mobile_pagination": "dots_overlay",
+        "mobile_thumbnails_position": "hidden",
+        "mobile_thumbnails_count": 5,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 20,
+        "desktop_padding_top": 32,
+        "desktop_padding_bottom": 32
+      }
+    },
+    "ticker_trust": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "tick_1": {
+          "type": "text",
+          "settings": {
+            "title": "✦ FDA Cleared"
+          }
+        },
+        "tick_2": {
+          "type": "text",
+          "settings": {
+            "title": "✦ Proven Wavelengths"
+          }
+        },
+        "tick_3": {
+          "type": "text",
+          "settings": {
+            "title": "✦ 10-Minute Session"
+          }
+        },
+        "tick_4": {
+          "type": "text",
+          "settings": {
+            "title": "✦ 30-Day Guarantee"
+          }
+        },
+        "tick_5": {
+          "type": "text",
+          "settings": {
+            "title": "✦ Medical Grade Technology"
+          }
+        },
+        "tick_6": {
+          "type": "text",
+          "settings": {
+            "title": "✦ Clinically Proven Results"
+          }
+        }
+      },
+      "block_order": ["tick_1", "tick_2", "tick_3", "tick_4", "tick_5", "tick_6"],
+      "settings": {
+        "color_scheme": "custom",
+        "custom_colors_background": "#c2185b",
+        "custom_colors_text": "#ffffff",
+        "speed": 3,
+        "gap": 40,
+        "text_size": 14,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "intro_section": {
+      "type": "image-with-text",
+      "blocks": {
+        "intro_heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Magic Behind RevitalEyes",
+            "heading_size": "h2"
+          },
+          "blocks": {}
+        },
+        "intro_text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>RevitalEyes harnesses the power of clinically-proven light therapy wavelengths to target the delicate skin around your eyes. Using the same technology trusted by dermatologists worldwide, our device delivers <strong>660nm Red Light</strong> and <strong>590nm Amber Light</strong> precisely where you need it most — reducing dark circles, puffiness, and fine lines in just 10 minutes a day.</p>"
+          },
+          "blocks": {}
+        },
+        "intro_caption": {
+          "type": "caption",
+          "settings": {
+            "caption": "Medical Grade · Clinically Proven · At-Home Convenience"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": ["intro_heading", "intro_text", "intro_caption"],
+      "settings": {
+        "image": "",
+        "height": "medium",
+        "color_scheme": "custom",
+        "custom_colors_background": "#fce4ec",
+        "custom_colors_text": "#880e4f",
+        "custom_colors_solid_button_background": "#c2185b",
+        "custom_colors_solid_button_text": "#ffffff",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "desktop_padding_top": 60,
+        "desktop_padding_bottom": 60,
+        "mobile_padding_top": 40,
+        "mobile_padding_bottom": 40
+      }
+    },
+    "tech_specs": {
+      "type": "custom-columns-new",
+      "blocks": {
+        "col_header": {
+          "type": "column",
+          "settings": {
+            "desktop_width": 12,
+            "mobile_width": 4,
+            "visibility": "always-display",
+            "bg_type": "none",
+            "bg_color": "transparent",
+            "border_radius": 0,
+            "border_width": 0,
+            "vertical_desktop_padding": 0,
+            "horizontal_desktop_padding": 15,
+            "vertical_mobile_padding": 0,
+            "horizontal_mobile_padding": 12
+          },
+          "blocks": {
+            "tech_title": {
+              "type": "heading",
+              "settings": {
+                "title": "RevitalEyes Technology Specs",
+                "heading_size": "h2",
+                "alignment": "center",
+                "mobile_alignment": "mobile-center",
+                "margin_top": 0,
+                "margin_bottom": 9
+              },
+              "blocks": {}
+            },
+            "tech_subtitle": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Every wavelength is chosen for maximum clinical efficacy</p>",
+                "alignment": "center",
+                "mobile_alignment": "mobile-center",
+                "text_size": 16,
+                "margin_top": 0,
+                "margin_bottom": 24
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["tech_title", "tech_subtitle"]
+        },
+        "col_red": {
+          "type": "column",
+          "settings": {
+            "desktop_width": 3,
+            "mobile_width": 4,
+            "visibility": "always-display",
+            "bg_type": "color",
+            "bg_color": "#fce4ec",
+            "border_radius": 15,
+            "border_width": 0,
+            "vertical_desktop_padding": 27,
+            "horizontal_desktop_padding": 24,
+            "vertical_mobile_padding": 20,
+            "horizontal_mobile_padding": 16
+          },
+          "blocks": {
+            "red_icon": {
+              "type": "icon-with-content",
+              "settings": {
+                "icon": "lightbulb",
+                "filled_icon": true,
+                "title": "660nm Red Light",
+                "text": "<p>Stimulates collagen production, reduces fine lines and wrinkles around the eyes</p>",
+                "margin_top": 0,
+                "margin_bottom": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["red_icon"]
+        },
+        "col_amber": {
+          "type": "column",
+          "settings": {
+            "desktop_width": 3,
+            "mobile_width": 4,
+            "visibility": "always-display",
+            "bg_type": "color",
+            "bg_color": "#fff8e1",
+            "border_radius": 15,
+            "border_width": 0,
+            "vertical_desktop_padding": 27,
+            "horizontal_desktop_padding": 24,
+            "vertical_mobile_padding": 20,
+            "horizontal_mobile_padding": 16
+          },
+          "blocks": {
+            "amber_icon": {
+              "type": "icon-with-content",
+              "settings": {
+                "icon": "flare",
+                "filled_icon": true,
+                "title": "590nm Amber Light",
+                "text": "<p>Reduces dark circles and puffiness, improves lymphatic drainage and circulation</p>",
+                "margin_top": 0,
+                "margin_bottom": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["amber_icon"]
+        },
+        "col_laser": {
+          "type": "column",
+          "settings": {
+            "desktop_width": 3,
+            "mobile_width": 4,
+            "visibility": "always-display",
+            "bg_type": "color",
+            "bg_color": "#e8f5e9",
+            "border_radius": 15,
+            "border_width": 0,
+            "vertical_desktop_padding": 27,
+            "horizontal_desktop_padding": 24,
+            "vertical_mobile_padding": 20,
+            "horizontal_mobile_padding": 16
+          },
+          "blocks": {
+            "laser_icon": {
+              "type": "icon-with-content",
+              "settings": {
+                "icon": "blur_on",
+                "filled_icon": true,
+                "title": "Low-Level Laser",
+                "text": "<p>Penetrates deep into skin tissue to accelerate cellular repair and rejuvenation</p>",
+                "margin_top": 0,
+                "margin_bottom": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["laser_icon"]
+        },
+        "col_ems": {
+          "type": "column",
+          "settings": {
+            "desktop_width": 3,
+            "mobile_width": 4,
+            "visibility": "always-display",
+            "bg_type": "color",
+            "bg_color": "#ede7f6",
+            "border_radius": 15,
+            "border_width": 0,
+            "vertical_desktop_padding": 27,
+            "horizontal_desktop_padding": 24,
+            "vertical_mobile_padding": 20,
+            "horizontal_mobile_padding": 16
+          },
+          "blocks": {
+            "ems_icon": {
+              "type": "icon-with-content",
+              "settings": {
+                "icon": "electric_bolt",
+                "filled_icon": true,
+                "title": "Microcurrent EMS",
+                "text": "<p>Tones and tightens eye muscles, provides instant lifting effect for sagging skin</p>",
+                "margin_top": 0,
+                "margin_bottom": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": ["ems_icon"]
+        }
+      },
+      "block_order": ["col_header", "col_red", "col_amber", "col_laser", "col_ems"],
+      "settings": {
+        "color_scheme": "custom",
+        "custom_colors_background": "#ffffff",
+        "custom_colors_text": "#3d0c1a",
+        "desktop_page_width": "page-width",
+        "column_gap_desktop": 16,
+        "row_gap_desktop": 16,
+        "column_gap_mobile": 12,
+        "row_gap_mobile": 12,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "medical_grade": {
+      "type": "image-with-text",
+      "blocks": {
+        "medical_caption": {
+          "type": "caption",
+          "settings": {
+            "caption": "Medical Grade Technology"
+          },
+          "blocks": {}
+        },
+        "medical_heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Same Technology Dermatologists Use — Now in Your Hands",
+            "heading_size": "h2"
+          },
+          "blocks": {}
+        },
+        "medical_text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>RevitalEyes combines <strong>four clinically-proven treatment modalities</strong> into one sleek, portable device. Our technology is backed by hundreds of peer-reviewed studies and trusted by aesthetic professionals globally.</p><p><strong>• Reduces fine lines by up to 35%</strong><br><strong>• Decreases dark circles by 87%</strong><br><strong>• Improves skin elasticity by 29%</strong><br><strong>• Clinically proven in 30 days</strong></p>"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": ["medical_caption", "medical_heading", "medical_text"],
+      "settings": {
+        "image": "",
+        "height": "large",
+        "color_scheme": "custom",
+        "custom_colors_background": "#1a0010",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#e91e8c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "desktop_padding_top": 80,
+        "desktop_padding_bottom": 80,
+        "mobile_padding_top": 48,
+        "mobile_padding_bottom": 48
+      }
+    },
+    "how_to_use": {
+      "type": "step-instructions",
+      "blocks": {
+        "step_1": {
+          "type": "step",
+          "settings": {
+            "image": "",
+            "text": "<p><strong>Step 1: Cleanse</strong></p><p>Start with clean, dry skin around your eye area. Remove all makeup and skincare products.</p>"
+          },
+          "blocks": {}
+        },
+        "step_2": {
+          "type": "step",
+          "settings": {
+            "image": "",
+            "text": "<p><strong>Step 2: Position</strong></p><p>Place RevitalEyes gently under each eye. The curved design fits perfectly along your orbital bone.</p>"
+          },
+          "blocks": {}
+        },
+        "step_3": {
+          "type": "step",
+          "settings": {
+            "image": "",
+            "text": "<p><strong>Step 3: Activate</strong></p><p>Press the power button to begin your 10-minute therapy session. Relax and let the light work.</p>"
+          },
+          "blocks": {}
+        },
+        "step_4": {
+          "type": "step",
+          "settings": {
+            "image": "",
+            "text": "<p><strong>Step 4: Moisturize</strong></p><p>Apply your favorite eye cream immediately after. Light therapy increases product absorption by up to 40%.</p>"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": ["step_1", "step_2", "step_3", "step_4"],
+      "settings": {
+        "heading": "<h2>How to RevitalEyes</h2>",
+        "desktopsteps": 4,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_size": 32,
+        "heading_size_mobile": 26,
+        "heading_color": "#880e4f",
+        "text_color": "#555555",
+        "circle_number_bg_color": "#e91e8c",
+        "number_color": "#ffffff",
+        "background_color": "#fff5f7",
+        "image_radius": 50,
+        "image_ratio": "square",
+        "circle_number_size": 36,
+        "text_size": 14,
+        "body_gap": 20,
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "reviews": {
+      "type": "facebook-testimonials",
+      "blocks": {
+        "review_1": {
+          "type": "column",
+          "settings": {
+            "post_author": "Sarah M.",
+            "post_author_verified": true,
+            "post_time": "2 weeks ago",
+            "post_text": "<p>I've been using RevitalEyes for 3 weeks and the difference is incredible! My dark circles are so much lighter and the puffiness I used to wake up with is basically gone. I was skeptical at first but this thing actually works. Worth every penny! ⭐⭐⭐⭐⭐</p>",
+            "post_reactions": "148",
+            "post_reactions_text": "❤️ 148",
+            "post_comments_text": "23 Comments"
+          },
+          "blocks": {}
+        },
+        "review_2": {
+          "type": "column",
+          "settings": {
+            "post_author": "Jennifer K.",
+            "post_author_verified": true,
+            "post_time": "1 month ago",
+            "post_text": "<p>As someone who's tried every eye cream under the sun, I was hesitant to try a device. But WOW. The fine lines around my eyes have visibly reduced after just 4 weeks of daily use. My friends keep asking what I'm doing differently. This is my secret weapon! 💕</p>",
+            "post_reactions": "203",
+            "post_reactions_text": "❤️ 203",
+            "post_comments_text": "31 Comments"
+          },
+          "blocks": {}
+        },
+        "review_3": {
+          "type": "column",
+          "settings": {
+            "post_author": "Michelle T.",
+            "post_author_verified": true,
+            "post_time": "3 weeks ago",
+            "post_text": "<p>I'm a nurse and I've seen red light therapy used clinically. Having this technology at home is a game changer. My patients always ask about my skin and I tell them about RevitalEyes. The results speak for themselves. FDA cleared gives me confidence.</p>",
+            "post_reactions": "312",
+            "post_reactions_text": "❤️ 312",
+            "post_comments_text": "47 Comments"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": ["review_1", "review_2", "review_3"],
+      "settings": {
+        "display_id": false,
+        "title": "Real Results From Real Customers",
+        "heading_size": "h2",
+        "color_scheme": "custom",
+        "custom_colors_background": "#fce4ec",
+        "custom_colors_text": "#880e4f",
+        "post_bg_color": "#ffffff",
+        "post_text_color": "#333333",
+        "post_border_color": "#f8bbd0",
+        "border_width": 1,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "slider_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "faq_1": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "How long before I see results?",
+            "row_content": "<p>Most customers notice a visible difference within 2–3 weeks of consistent daily use. For best results, use RevitalEyes for 10 minutes each morning and evening. Clinical studies show optimal results are achieved after 4–6 weeks of regular use.</p>"
+          },
+          "blocks": {}
+        },
+        "faq_2": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "Is it safe to use around the eyes?",
+            "row_content": "<p>Yes! RevitalEyes is FDA cleared and specifically designed for the delicate under-eye area. The wavelengths used (660nm and 590nm) are completely safe for use near the eyes. Always keep the device at least 1cm from your eyelids and do not look directly into the light.</p>"
+          },
+          "blocks": {}
+        },
+        "faq_3": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "How often should I use RevitalEyes?",
+            "row_content": "<p>We recommend using RevitalEyes once daily for 10 minutes per eye. Consistency is key — make it part of your morning skincare routine for the best results. You can safely use it up to twice daily if desired.</p>"
+          },
+          "blocks": {}
+        },
+        "faq_4": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "What does your return policy cover?",
+            "row_content": "<p>We offer a 30-day money-back guarantee. If you're not completely satisfied with your results, simply return the device in its original packaging for a full refund — no questions asked. We're that confident in RevitalEyes.</p>"
+          },
+          "blocks": {}
+        },
+        "faq_5": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "Can I use it with my eye cream?",
+            "row_content": "<p>Absolutely! We actually recommend applying your favorite eye cream immediately after your RevitalEyes session. Light therapy has been shown to increase the absorption of topical skincare products by up to 40%, making your eye cream even more effective.</p>"
+          },
+          "blocks": {}
+        },
+        "faq_6": {
+          "type": "collapsible-row-content",
+          "settings": {
+            "heading": "How do I charge RevitalEyes?",
+            "row_content": "<p>RevitalEyes charges via USB-C (cable included). A full charge takes approximately 1.5 hours and provides up to 30 days of daily use. An LED indicator will show you the battery status at all times.</p>"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": ["faq_1", "faq_2", "faq_3", "faq_4", "faq_5", "faq_6"],
+      "settings": {
+        "caption": "Got Questions?",
+        "title": "Frequently Asked Questions",
+        "heading_size": "h2",
+        "color_scheme": "custom",
+        "custom_colors_background": "#ffffff",
+        "custom_colors_text": "#3d0c1a",
+        "desktop_layout": "full_width",
+        "collapse_icon": "plus",
+        "collapse_icon_style": "circle",
+        "row_heading_size": "medium",
+        "enable_custom_style": true,
+        "closed_state_header_bg": "#fff5f7",
+        "closed_state_header_text": "#880e4f",
+        "closed_state_collapse_icon": "#c2185b",
+        "open_state_header_bg": "#fce4ec",
+        "open_state_header_text": "#880e4f",
+        "open_state_collapse_icon": "#c2185b",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "footer_divider": {
+      "type": "section-divider",
+      "settings": {
+        "divider_style": "line",
+        "divider_color": "#f8bbd0",
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer_email": {
+          "type": "email_signup",
+          "settings": {
+            "heading": "Join 10,000+ Happy Customers",
+            "block_headings_font_size": 1,
+            "subtext": "<p>Get exclusive deals, skincare tips, and early access to new products</p>",
+            "button_type": "solid",
+            "button_label": "Subscribe",
+            "button_style_secondary": false,
+            "width_desktop": 3,
+            "width_mobile": "2"
+          }
+        },
+        "footer_menu": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop",
+            "block_headings_font_size": 1,
+            "menu": "main-menu",
+            "font_size": 16,
+            "menu_items_font": "body_bold",
+            "width_desktop": 4,
+            "width_mobile": "2"
+          }
+        },
+        "footer_policies": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Support",
+            "block_headings_font_size": 1,
+            "menu": "footer",
+            "font_size": 16,
+            "menu_items_font": "body_bold",
+            "width_desktop": 4,
+            "width_mobile": "2"
+          }
+        }
+      },
+      "block_order": ["footer_email", "footer_menu", "footer_policies"],
+      "settings": {
+        "color_scheme": "custom",
+        "custom_colors_background": "#1a0010",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#f8bbd0",
+        "custom_colors_solid_button_background": "#e91e8c",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#f8bbd0",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "branding_text": "© RevitalEyes by Slowpet",
+        "margin_top": 0,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ticker_trust",
+    "intro_section",
+    "tech_specs",
+    "medical_grade",
+    "how_to_use",
+    "reviews",
+    "faq",
+    "footer_divider",
+    "footer"
+  ]
+}
