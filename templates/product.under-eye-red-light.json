@@ -170,7 +170,7 @@
         "display_id": false,
         "enable_sticky_info": true,
         "color_scheme": "custom",
-        "custom_colors_background": "#FFE2E2",
+        "custom_colors_background": "#fce4ec",
         "custom_colors_text": "#3d0c1a",
         "custom_colors_solid_button_background": "#c2185b",
         "custom_colors_solid_button_text": "#ffffff",

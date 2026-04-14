@@ -1891,9 +1891,9 @@
         "travel_bottle_footer_email": {
           "type": "email_signup",
           "settings": {
-            "heading": "Join 10,000+ Happy Dog Parents",
+            "heading": "Join 10,000+ Savvy Travelers",
             "block_headings_font_size": 1,
-            "subtext": "<p>Enrichment tips, treat recipes, and real stories from pup lovers like you</p>",
+            "subtext": "<p>Get packing tips, exclusive travel deals, and smart organization hacks delivered to your inbox.</p>",
             "button_type": "solid",
             "button_label": "Sign up",
             "button_style_secondary": false,
