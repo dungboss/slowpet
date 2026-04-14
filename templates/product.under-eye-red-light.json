@@ -397,11 +397,6 @@
         "desc_row_2",
         "desc_row_3"
       ],
-      "custom_css": [
-        "/* 5. Thông báo Urgency (Order Today) */.product-inventry-main {margin-top: 1.5rem;}",
-        ".product__stock-level {display: flex; align-items: center; gap: 10px; color: #ef4444; font-size: 14px; font-weight: 500;}",
-        ".icon--inventory {width: 12px; height: 12px; background: #ef4444; border-radius: 50%; position: relative; display: block; flex-shrink: 0;}"
-      ],
       "settings": {
         "display_id": false,
         "enable_sticky_info": true,
