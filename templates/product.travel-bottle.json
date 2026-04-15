@@ -767,15 +767,15 @@
         "variant_picker_travel_bottle": {
           "type": "product_product-variant-picker-block",
           "settings": {
-            "picker_types": "pills, pills, pills",
+            "picker_types": "swatches",
             "custom_labels": "",
             "skip_unavailable": false,
             "append": "option_1_label_container",
-            "swatches_size": "medium",
-            "swatches_custom_colors": "disabled",
-            "swatches_custom_colors_list": "#000000, #FFFFFF",
+            "swatches_size": "small",
+            "swatches_custom_colors": "custom",
+            "swatches_custom_colors_list": "#cdd9ae, #eaeaea",
             "full_width_dropdowns": false,
-            "margin_top": 15,
+            "margin_top": 12,
             "margin_bottom": 0
           },
           "blocks": {}
@@ -793,8 +793,8 @@
         "text_with_icon_tCpaB8",
         "text_with_icon_gYCjez",
         "price",
-        "kaching_bundles_app_block_mzfMkY",
         "variant_picker_travel_bottle",
+        "kaching_bundles_app_block_mzfMkY",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
