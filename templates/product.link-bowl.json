@@ -754,7 +754,7 @@
             "append": "option_1_label_container",
             "swatches_size": "small",
             "swatches_custom_colors": "custom",
-            "swatches_custom_colors_list": "#609FDB, #393939",
+            "swatches_custom_colors_list": "Blue = #609FDB, Black = #393939, Grey = #808080, Gray = #808080",
             "full_width_dropdowns": false,
             "margin_top": 12,
             "margin_bottom": 0
