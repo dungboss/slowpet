@@ -54,6 +54,14 @@
     </div>
   {%- endunless -%}
   <div class="page-width{% if section.settings.desktop_page_width != 'normal' %} {{ section.settings.desktop_page_width }}{% endif %}{% if section.settings.mobile_full_page %} mobile-full-page{% endif %}">
+    {% liquid
+      assign product_images = blank
+      assign product_images_count = 0
+      if product
+        assign product_images = product.media | where: 'media_type', 'image'
+        assign product_images_count = product_images.size
+      endif
+    %}
     <splide-component
       data-type="{{ section.settings.type }}"
       data-autoplay="{{ section.settings.autoplay }}"
@@ -115,7 +123,15 @@
                     {% liquid
                       assign has_image = false
                       assign has_video = false
+                      assign displayed_image = blank
                       if block.type == 'image_slide' and block.settings.image != blank
+                        assign displayed_image = block.settings.image
+                      elsif block.type == 'image_slide' and product_images_count > 0
+                        assign fallback_index = forloop.index0 | modulo: product_images_count
+                        assign displayed_image = product_images[fallback_index].preview_image
+                      endif
+
+                      if displayed_image != blank
                         assign has_image = true
                       elsif block.type == 'video_slide' and block.settings.video != blank
                         assign has_video = true
@@ -125,7 +141,7 @@
                       {% if has_image or has_video %}
                         class="image-slide__image media media--transparent ratio"
                         {% if has_image %}
-                          style="--ratio-percent: {{ 1 | divided_by: block.settings.image.aspect_ratio | times: 100 }}%"
+                          style="--ratio-percent: {{ 1 | divided_by: displayed_image.aspect_ratio | times: 100 }}%"
                         {% else %}
                           style="--ratio-percent: {{ 1 | divided_by: block.settings.video.aspect_ratio | times: 100 }}%"
                         {% endif %}
@@ -136,7 +152,7 @@
                       {% if has_image %}
                         {%- liquid
                           assign widths = '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
-                          assign image_height = block.settings.image.width | divided_by: block.settings.image.aspect_ratio
+                          assign image_height = displayed_image.width | divided_by: displayed_image.aspect_ratio
                         -%}
                         {%- capture sizes -%}
                             (min-width: {{ settings.page_width }}px)
@@ -150,7 +166,7 @@
                             , {% if section.settings.slides_mobile == 1 %} 100vw {% else %} calc(100vw / 2) {% endif %}
                           {%- endcapture -%}
                         {{
-                          block.settings.image
+                          displayed_image
                           | image_url: width: 3840
                           | image_tag: loading: 'lazy', height: image_height, sizes: sizes, widths: widths
                         }}
