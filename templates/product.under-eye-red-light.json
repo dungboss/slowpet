@@ -1028,6 +1028,7 @@
         "testi_2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten.png",
             "star_rating": 5,
             "title": "My secret weapon",
             "text": "<p>\"As a nurse working night shifts, my under-eye puffiness was hard to hide and made me look exhausted. This device has been my saving grace. I use it during my morning wind-down, and the difference is truly remarkable.\"</p>",
@@ -1046,6 +1047,7 @@
         "testi_4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_2.png",
             "star_rating": 5,
             "title": "Worth every penny",
             "text": "<p>\"I was hesitant to spend money on another beauty gadget. But after seeing my skin brighten up in just about two weeks, I wish I had tried it sooner. Even my husband noticed I look less tired lately.\"</p>",
@@ -1055,6 +1057,7 @@
         "testi_5": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_1.png",
             "star_rating": 5,
             "title": "Dermatologist recommended",
             "text": "<p>\"My dermatologist actually recommended red light therapy for my chronic puffiness. I chose RevitalEyes because it's FDA cleared and I couldn't be happier with the results.\"</p>",
@@ -1064,6 +1067,7 @@
         "testi_6": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_3.png",
             "star_rating": 5,
             "title": "My morning ritual",
             "text": "<p>\"RevitalEyes has become my favorite part of my morning routine. 10 minutes while I drink coffee and I walk out the door looking 5 years younger. Simple, effective, incredible.\"</p>",
@@ -1128,7 +1132,7 @@
         "custom_gradient_background": "",
         "custom_colors_text": "#880e4f",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "column_alignment": "center",
         "show_stars": true,
         "inactive_stars_style": "solid",
