@@ -1019,6 +1019,7 @@
         "testi_1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_7.png",
             "star_rating": 5,
             "title": "Incredible transformation!",
             "text": "<p>\"I've struggled with dark circles my whole life. After 3 weeks of using RevitalEyes every morning, people started asking if I'd been on vacation. This device is life-changing!\"</p>",
@@ -1028,7 +1029,7 @@
         "testi_2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten.png",
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_8.png",
             "star_rating": 5,
             "title": "My secret weapon",
             "text": "<p>\"As a nurse working night shifts, my under-eye puffiness was hard to hide and made me look exhausted. This device has been my saving grace. I use it during my morning wind-down, and the difference is truly remarkable.\"</p>",
@@ -1047,7 +1048,7 @@
         "testi_4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_2.png",
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_6.png",
             "star_rating": 5,
             "title": "Worth every penny",
             "text": "<p>\"I was hesitant to spend money on another beauty gadget. But after seeing my skin brighten up in just about two weeks, I wish I had tried it sooner. Even my husband noticed I look less tired lately.\"</p>",
@@ -1067,7 +1068,7 @@
         "testi_6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_3.png",
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_5.png",
             "star_rating": 5,
             "title": "My morning ritual",
             "text": "<p>\"RevitalEyes has become my favorite part of my morning routine. 10 minutes while I drink coffee and I walk out the door looking 5 years younger. Simple, effective, incredible.\"</p>",
@@ -1194,7 +1195,7 @@
             "heading_CBkdVX": {
               "type": "heading",
               "settings": {
-                "title": "Why RevitalEyes Works",
+                "title": "The Science Behind RevitalEyes",
                 "title_highlight_1": "solid-color",
                 "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
                 "title_highlight_1_bg-color": "#fce4ec",
@@ -1244,7 +1245,7 @@
             "text_jQj3hy": {
               "type": "text",
               "settings": {
-                "text": "<p>Clinically guided light and microcurrent support brighter, smoother-looking under-eyes.</p>",
+                "text": "<p>Advanced light therapy and microcurrent technology for visibly brighter, smoother under-eyes.</p>",
                 "alignment": "center",
                 "mobile_alignment": "mobile-center",
                 "text_size": 14,
@@ -1292,9 +1293,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "87% Saw Lighter Dark Circles",
+                "title": "Visibly Fades Dark Circles",
                 "icon_heading_size": "h3",
-                "text": "<p>Customers reported a visible difference after consistent daily use.</p>",
+                "text": "<p>87% of users noticed a brighter, more awakened appearance with consistent daily use.</p>",
                 "text_size": 14,
                 "margin_top": 0,
                 "margin_bottom": 30
@@ -1313,9 +1314,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "92% Reported Less Puffiness",
+                "title": "Instantly Depuffs & Soothes",
                 "icon_heading_size": "h3",
-                "text": "<p>Especially helpful for morning swelling and tired-looking eyes.</p>",
+                "text": "<p>92% experienced reduced morning swelling and relieved eye fatigue.</p>",
                 "text_size": 14,
                 "margin_top": 15,
                 "margin_bottom": 0
@@ -1396,9 +1397,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "4 Treatment Modes",
+                "title": "4-in-1 Spa-Grade Therapy",
                 "icon_heading_size": "h3",
-                "text": "<p>660nm red light, 590nm amber light, low-level laser, and EMS in one device.</p>",
+                "text": "<p>Combines 660nm Red Light, 590nm Amber Light, low-level laser, and EMS in one intuitive device.</p>",
                 "text_size": 14,
                 "margin_top": 0,
                 "margin_bottom": 30
@@ -1417,9 +1418,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "Safe for Daily Use",
+                "title": "Gentle & Non-Invasive",
                 "icon_heading_size": "h3",
-                "text": "<p>Suitable for all skin types, including sensitive skin.</p>",
+                "text": "<p>100% pain-free. Dermatologist-inspired and perfectly safe for sensitive skin.</p>",
                 "text_size": 14,
                 "margin_top": 15,
                 "margin_bottom": 0
