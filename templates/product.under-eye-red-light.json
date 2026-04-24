@@ -1039,6 +1039,7 @@
         "testi_3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_9.png",
             "star_rating": 5,
             "title": "Finally works!",
             "text": "<p>\"I've tried every eye cream on the market. Nothing worked until RevitalEyes. The red light therapy actually does what it promises. My fine lines are visibly reduced after just 4 weeks.\"</p>",
