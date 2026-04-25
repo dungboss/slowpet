@@ -1043,28 +1043,52 @@
     "image_slider_product_gallery": {
       "type": "image-slider",
       "blocks": {
-        "image_slide_1": {
-          "type": "image_slide",
+        "video_slide_McWjgz": {
+          "type": "video_slide",
           "settings": {
-            "link": "",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_2": {
-          "type": "image_slide",
+        "video_slide_jFYLJp": {
+          "type": "video_slide",
           "settings": {
-            "link": "",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_3": {
-          "type": "image_slide",
+        "video_slide_xLJbYc": {
+          "type": "video_slide",
           "settings": {
-            "link": "",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -1081,9 +1105,9 @@
         }
       },
       "block_order": [
-        "image_slide_1",
-        "image_slide_2",
-        "image_slide_3",
+        "video_slide_McWjgz",
+        "video_slide_jFYLJp",
+        "video_slide_xLJbYc",
         "image_slide_4"
       ],
       "settings": {
