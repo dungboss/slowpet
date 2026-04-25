@@ -903,18 +903,17 @@
     "logo_list_iRtUiA": {
       "type": "logo-list",
       "blocks": {
-        "logo_MQweyJ": {
+        "logo_jJTFxF": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/a7f15afd-9f9c-40eb-b4e0-fb090d7eb05a.webp",
+            "image": "shopify://shop_images/1673127-slide-r29-logo-mark.webp",
             "link": "",
             "target_blank": false
           }
         },
-        "logo_mFEwUm": {
+        "logo_NRfhcq": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/The_Dodo_logo.svg",
             "link": "",
             "target_blank": false
           }
@@ -929,8 +928,8 @@
         }
       },
       "block_order": [
-        "logo_MQweyJ",
-        "logo_mFEwUm",
+        "logo_jJTFxF",
+        "logo_NRfhcq",
         "logo_j8nYyC"
       ],
       "name": "Featured on",
