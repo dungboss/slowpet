@@ -1096,22 +1096,12 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
-        },
-        "image_slide_4": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
         }
       },
       "block_order": [
         "video_slide_McWjgz",
         "video_slide_jFYLJp",
-        "video_slide_xLJbYc",
-        "image_slide_4"
+        "video_slide_xLJbYc"
       ],
       "settings": {
         "display_id": false,
