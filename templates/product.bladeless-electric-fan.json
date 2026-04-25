@@ -32,7 +32,7 @@
             "star_color": "#ffcc00",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(16,688 Reviews)",
+            "label": "(4.8/5 Reviews)",
             "size": 16,
             "alignment": "flex-start",
             "scroll_id": "",
@@ -64,8 +64,8 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "<strong>Puzzle Challenge — Keeps Them Busy</strong>",
-            "icon_1": "target",
+            "text_1": "<strong>Bladeless Safety</strong>",
+            "icon_1": "shield",
             "filled_icon_1": false,
             "text_2": "",
             "icon_2": "check_circle",
@@ -104,7 +104,7 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "Turn treat time into 20–30 minutes of brain-stimulating fun",
+            "text_1": "No exposed blades for a cleaner, safer feel at home",
             "icon_1": "",
             "filled_icon_1": false,
             "text_2": "",
@@ -144,8 +144,8 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "<strong>Slows Eating — Stops Bloating</strong>",
-            "icon_1": "nest_clock_farsight_analog",
+            "text_1": "<strong>Quiet Comfort</strong>",
+            "icon_1": "volume_off",
             "filled_icon_1": false,
             "text_2": "",
             "icon_2": "check_circle",
@@ -184,7 +184,7 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "Puzzle design forces dogs to slow down and work for each piece",
+            "text_1": "A low-distraction fan for bedrooms, offices, and late nights",
             "icon_1": "",
             "filled_icon_1": false,
             "text_2": "",
@@ -224,8 +224,8 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "<strong>Beats Boredom — Stops Destruction</strong>",
-            "icon_1": "pets",
+            "text_1": "<strong>Adjustable Airflow</strong>",
+            "icon_1": "tune",
             "filled_icon_1": false,
             "text_2": "",
             "icon_2": "check_circle",
@@ -264,7 +264,7 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "Mentally tired dogs stop chewing shoes and furniture",
+            "text_1": "Choose the breeze level that fits your space",
             "icon_1": "",
             "filled_icon_1": false,
             "text_2": "",
@@ -304,8 +304,8 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "<strong>Vet Recommended — Safe Materials</strong>",
-            "icon_1": "sound_detection_dog_barking",
+            "text_1": "<strong>Space-Saving Design</strong>",
+            "icon_1": "grid_view",
             "filled_icon_1": false,
             "text_2": "",
             "icon_2": "check_circle",
@@ -344,7 +344,7 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "BPA-free, food-grade, easy to clean in the dishwasher",
+            "text_1": "Compact enough to sit neatly on a desk or bedside table",
             "icon_1": "",
             "filled_icon_1": false,
             "text_2": "",
@@ -383,7 +383,7 @@
           },
           "blocks": {}
         },
-        "variant_picker_link_bowl": {
+        "variant_picker_fan": {
           "type": "product_product-variant-picker-block",
           "settings": {
             "picker_types": "swatches",
@@ -549,7 +549,7 @@
             "border_color": "#b7b7b7",
             "corner_radius": 40,
             "padding": 3,
-            "text_1": "<strong>SPECIAL BUNDLE PRICING:</strong> Lock in the best value with multi-packs. 🔴Bundle pricing ends in <strong>18 hours</strong>.",
+            "text_1": "<strong>BUNDLE & SAVE:</strong> Add an extra fan for another room and get better value.",
             "icon_1": "",
             "filled_icon_1": false,
             "text_2": "",
@@ -578,31 +578,17 @@
             "mobile_icon_size": 40,
             "mobile_spacing": 10,
             "mobile_text_size": 14,
-            "icon_1": "assured_workload",
+            "icon_1": "shield",
             "icon_1_fill": false,
-            "heading_1": "90-Day Money-Back Guarantee",
-            "icon_2": "workspace_premium",
+            "heading_1": "Bladeless & Family Friendly",
+            "icon_2": "volume_off",
             "icon_2_fill": false,
-            "heading_2": "BPA-Free & Food-Safe",
-            "icon_3": "local_shipping",
+            "heading_2": "Quiet Everyday Use",
+            "icon_3": "cleaning_services",
             "icon_3_fill": false,
-            "heading_3": "Fast Shipping Worldwide",
+            "heading_3": "Easy To Maintain",
             "margin_top": 15,
             "margin_bottom": 15
-          },
-          "blocks": {}
-        },
-        "image_c7AM3h": {
-          "type": "image",
-          "name": "Image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-04-02_at_19.21.02.webp",
-            "width": 100,
-            "alignment": "center",
-            "mobile_alignment": "center",
-            "border_radius": 0,
-            "margin_top": 15,
-            "margin_bottom": 21
           },
           "blocks": {}
         },
@@ -610,7 +596,7 @@
           "type": "collapsible-row",
           "settings": {
             "open": false,
-            "heading": "Why Choose Slowpet™ Puzzle Toy",
+            "heading": "Why Choose the Bladeless Fan",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -646,7 +632,7 @@
             "open_state_collapse_bg": "#6d388b",
             "open_state_content_bg": "#fefaff",
             "open_state_content_text": "#121212",
-            "content": "<p>Regular toys bore dogs in seconds — leaving you with a destructive, anxious pup and a chewed-up couch.</p><p>Slowpet™ Puzzle Toy Slow Feeder makes every treat session a 20–30 minute brain workout. The multi-level challenge keeps dogs engaged, slows down gulping, and turns feeding time into enrichment time.</p><p>Thousands of dog parents report calmer, happier dogs — and zero destroyed furniture.</p>",
+            "content": "<p>Bladeless design gives you a cleaner look, safer everyday use, and less hassle than exposed blades.</p><p>The result is a fan that fits better in busy homes, bedrooms, and workspaces while still keeping air moving comfortably.</p><p>It is a simple upgrade when you want a more modern, less cluttered cooling setup.</p>",
             "page": "",
             "margin_top": 0,
             "margin_bottom": 0
@@ -657,7 +643,7 @@
           "type": "collapsible-row",
           "settings": {
             "open": false,
-            "heading": "What Treats Work Best",
+            "heading": "How the Airflow Feels",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -693,7 +679,7 @@
             "open_state_collapse_bg": "#6d388b",
             "open_state_content_bg": "#fefaff",
             "open_state_content_text": "#121212",
-            "content": "<p>Works with all your dog's favorite dry and soft treats:</p><ul><li>Kibble and dry food</li><li>Small training treats</li><li>Soft treats and chews</li><li>Freeze-dried pieces</li><li>Broken biscuits</li></ul><p>Tip: Mix sizes for extra challenge!</p>",
+            "content": "<p>Use the controls to choose the airflow level that feels right for the room, from a lighter breeze to stronger cooling.</p><p>That makes it easy to adapt the fan for daytime use, evening comfort, or a calmer nighttime setting.</p>",
             "page": "",
             "margin_top": 0,
             "margin_bottom": 0
@@ -704,7 +690,7 @@
           "type": "collapsible-row",
           "settings": {
             "open": false,
-            "heading": "How to Use",
+            "heading": "How To Use It",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -740,7 +726,7 @@
             "open_state_collapse_bg": "#6d388b",
             "open_state_content_bg": "#fefaff",
             "open_state_content_text": "#121212",
-            "content": "<p>Step 1: Hide treats in the puzzle compartments<br/>Step 2: Place on the floor and let your dog explore<br/>Step 3: Watch them work for 20–30 minutes of calm<br/>Step 4: Rinse or pop in the dishwasher to clean</p>",
+            "content": "<p>Step 1: Place the fan where you need airflow<br/>Step 2: Turn it on and select the airflow level you want<br/>Step 3: Aim it toward the space you want to cool<br/>Step 4: Wipe the surface clean when needed</p>",
             "page": "",
             "margin_top": 0,
             "margin_bottom": 0
@@ -807,14 +793,13 @@
         "text_with_icon_tCpaB8",
         "text_with_icon_gYCjez",
         "price",
-        "variant_picker_link_bowl",
+        "variant_picker_fan",
         "kaching_bundles_app_block_mzfMkY",
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "text_with_icon_DiUgTb",
         "icon_with_text_bGry86",
-        "image_c7AM3h",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_row_p6J4hX",
         "collapsible_row_hDG8fz",
@@ -899,107 +884,13 @@
         "size": 16
       }
     },
-    "logo_list_iRtUiA": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_MQweyJ": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/a7f15afd-9f9c-40eb-b4e0-fb090d7eb05a.webp",
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_mFEwUm": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/The_Dodo_logo.svg",
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_j8nYyC": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/daily-paws-logo-png_seeklogo-505663.avif",
-            "link": "",
-            "target_blank": false
-          }
-        }
-      },
-      "block_order": [
-        "logo_MQweyJ",
-        "logo_mFEwUm",
-        "logo_j8nYyC"
-      ],
-      "name": "Featured on",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Featured on",
-        "title_highlight_1": "solid-color",
-        "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_1_bg-color": "#f9efff",
-        "title_highlight_1_color": "#6d388b",
-        "highlighted-1_border_radius": 8,
-        "highlighted-1_border_width": 0,
-        "highlighted-1_border": "solid",
-        "highlighted-1_border_color": "#6d388b",
-        "highlighted-1_padding-block": 0.3,
-        "highlighted-1_padding-inline": 0.3,
-        "title_highlight_1_underline-thickness": 2,
-        "title_highlight_1_underline-color": "#6d388b",
-        "title_highlight_1_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_1_underline-color-position": 25,
-        "title_highlight_1_handwritten-color": "#6d388b",
-        "title_highlight_1_handwritten-stroke-width": 3,
-        "title_highlight_1_handwritten-position": 60,
-        "title_highlight_2": "none",
-        "title_highlight_2_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_2_bg-color": "#f9efff",
-        "title_highlight_2_color": "#6d388b",
-        "highlighted-2_border_radius": 8,
-        "highlighted-2_border_width": 0,
-        "highlighted-2_border": "solid",
-        "highlighted-2_border_color": "#6d388b",
-        "highlighted-2_padding-block": 0.3,
-        "highlighted-2_padding-inline": 0.3,
-        "title_highlight_2_underline-thickness": 2,
-        "title_highlight_2_underline-color": "#6d388b",
-        "title_highlight_2_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_2_underline-color-position": 25,
-        "title_highlight_2_handwritten-color": "#6d388b",
-        "title_highlight_2_handwritten-stroke-width": 3,
-        "title_highlight_2_handwritten-position": 60,
-        "heading_size": "h1",
-        "custom_desktop_size": 39,
-        "custom_mobile_size": 28,
-        "margin_top": 15,
-        "margin_bottom": 15,
-        "gray_logos": false,
-        "color_scheme": "background-1",
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212",
-        "layout": "horizontal",
-        "desktop_logo_height": 50,
-        "columns_mobile": 2,
-        "mobile_logo_height": 50,
-        "mobile_slider": true,
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "show_dots": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "horizontal_ticker_XgCKQ8": {
       "type": "horizontal-ticker",
       "blocks": {
         "text_cLnqTc": {
           "type": "text",
           "settings": {
-            "title": "Puzzle Challenge • Slows Eating • Beats Boredom • Vet Recommended • BPA-Free Safe"
+            "title": "Bladeless Safety • Quiet Comfort • Adjustable Airflow • Space-Saving Design • Easy To Clean"
           }
         }
       },
@@ -1043,9 +934,9 @@
       "type": "image-slider",
       "blocks": {
         "video_slide_hxCnyh": {
-          "type": "video_slide",
+          "type": "image_slide",
           "settings": {
-            "video": "shopify://files/videos/our go-to enrichment is 60_ off right now!  there are so many benefits, thats why I give this to Bruno so often  plus he really enjoys it and deserves the treat!.mp4",
+            "image": null,
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1055,15 +946,15 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
+            "description": "<p>Bladeless design keeps the look clean and modern.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
         "video_slide_JgrBd7": {
-          "type": "video_slide",
+          "type": "image_slide",
           "settings": {
-            "video": "shopify://files/videos/Finding an enrichment for your dog doesnt have to be complicated We love a quick and simple enrichment that provides mental stimulation, reduces stress-anxeity, especially for high energy dogs!.mp4",
+            "image": null,
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1073,15 +964,15 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
+            "description": "<p>Quiet airflow for bedrooms, desks, and workspaces.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
         "video_slide_9M8frX": {
-          "type": "video_slide",
+          "type": "image_slide",
           "settings": {
-            "video": "shopify://files/videos/no trending audio this time for the ASMR lovers.  this thing is AMAZING! I used strawberries, bananas, peanut butter, and apple sauce. it has different textures on each side of the mat so its hard to get out and ta.mp4",
+            "image": null,
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1091,15 +982,15 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
+            "description": "<p>Compact shape fits neatly into smaller rooms.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
         "video_slide_fkDcwE": {
-          "type": "video_slide",
+          "type": "image_slide",
           "settings": {
-            "video": "shopify://files/videos/POV 3.mp4",
+            "image": null,
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1109,7 +1000,7 @@
             "sound_btn_color_scheme": "inverse",
             "display_timeline": false,
             "timeline_color": "accent-1",
-            "description": "",
+            "description": "<p>Easy-to-clean exterior for everyday use.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -1124,7 +1015,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "<strong>Watch Dogs Go Crazy For It</strong>",
+        "title": "<strong>Bladeless Cooling, Up Close</strong>",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#f9efff",
@@ -1225,7 +1116,7 @@
             "heading_CBkdVX": {
               "type": "heading",
               "settings": {
-                "title": "Why Dog Parents Love It",
+                "title": "Why People Choose It",
                 "title_highlight_1": "solid-color",
                 "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
                 "title_highlight_1_bg-color": "#f9efff",
@@ -1275,7 +1166,7 @@
             "text_jQj3hy": {
               "type": "text",
               "settings": {
-                "text": "<p>The puzzle toy that solves 4 problems at once</p>",
+                "text": "<p>One bladeless fan, five everyday comfort benefits</p>",
                 "alignment": "center",
                 "mobile_alignment": "mobile-center",
                 "text_size": 14,
@@ -1314,7 +1205,7 @@
             "icon_with_content_iYEqae": {
               "type": "icon-with-content",
               "settings": {
-                "icon": "target",
+                "icon": "shield",
                 "filled_icon": false,
                 "icon_size": "m",
                 "icon_position": "next-to-title",
@@ -1323,9 +1214,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "Puzzle Challenge",
+                "title": "Bladeless Safety",
                 "icon_heading_size": "h3",
-                "text": "<p>Multiple compartments keep dogs engaged for 20–30 minutes</p>",
+                "text": "<p>No exposed blades for a cleaner, safer feel at home</p>",
                 "text_size": 14,
                 "margin_top": 0,
                 "margin_bottom": 30
@@ -1335,7 +1226,7 @@
             "icon_with_content_8fRmbn": {
               "type": "icon-with-content",
               "settings": {
-                "icon": "nest_clock_farsight_analog",
+                "icon": "volume_off",
                 "filled_icon": false,
                 "icon_size": "m",
                 "icon_position": "next-to-title",
@@ -1344,9 +1235,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "Slows Eating",
+                "title": "Quiet Comfort",
                 "icon_heading_size": "h3",
-                "text": "<p>Dogs must work for each treat — no more gulping and vomiting</p>",
+                "text": "<p>A low-distraction fan for bedrooms, offices, and late nights</p>",
                 "text_size": 14,
                 "margin_top": 15,
                 "margin_bottom": 0
@@ -1381,7 +1272,7 @@
             "image_dTEXhz": {
               "type": "image",
               "settings": {
-                "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_4_1_1_1.gif",
+                "image": null,
                 "width": 100,
                 "alignment": "center",
                 "mobile_alignment": "center",
@@ -1418,7 +1309,7 @@
             "icon_with_content_MrnXLK": {
               "type": "icon-with-content",
               "settings": {
-                "icon": "pets",
+                "icon": "tune",
                 "filled_icon": false,
                 "icon_size": "m",
                 "icon_position": "next-to-title",
@@ -1427,9 +1318,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "Beats Boredom",
+                "title": "Adjustable Airflow",
                 "icon_heading_size": "h3",
-                "text": "<p>Mental stimulation stops anxiety, barking and destructive chewing</p>",
+                "text": "<p>Dial in a gentler or stronger breeze depending on the room</p>",
                 "text_size": 14,
                 "margin_top": 0,
                 "margin_bottom": 30
@@ -1439,7 +1330,7 @@
             "icon_with_content_Yk6MEy": {
               "type": "icon-with-content",
               "settings": {
-                "icon": "sound_detection_dog_barking",
+                "icon": "cleaning_services",
                 "filled_icon": false,
                 "icon_size": "m",
                 "icon_position": "next-to-title",
@@ -1448,9 +1339,9 @@
                 "icon_text_alignment": "left",
                 "text_color": "text",
                 "custom_text_color": "#ff0000",
-                "title": "BPA-Free & Safe",
+                "title": "Easy To Clean",
                 "icon_heading_size": "h3",
-                "text": "<p>Food-grade materials, dishwasher safe, vet recommended</p>",
+                "text": "<p>Wipe the exterior quickly and keep it looking fresh</p>",
                 "text_size": 14,
                 "margin_top": 15,
                 "margin_bottom": 0
@@ -1501,12 +1392,12 @@
         "column_Y9BLnV": {
           "type": "column",
           "settings": {
-            "post_author": "Sarah Mitchell",
-            "post_author_avatar": "shopify://shop_images/381aaab70e9decd5fac1e9d21500eb89.webp",
+            "post_author": "Sarah M.",
+            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "22h ago",
-            "post_text": "<p>I honestly wasn’t expecting much, but this has been a total game-changer for my dog’s digestion. My golden used to inhale his food in seconds and ended up puking on the rug almost every day. Since switching to this slow feeder, the interactive rolling ball forces him to lick slowly rather than gulp. No more post-meal messes, no more bloating. It’s such a relief to see him finally enjoying a meal at a healthy pace.</p>",
-            "post_image": "shopify://shop_images/1_98c12b67-981a-4638-8c4d-ef0e33001b4e.png",
+            "post_text": "<p>I put this in our bedroom and it instantly felt more comfortable. The bladeless design looks cleaner, and I like not having exposed blades around the kids.</p>",
+            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "892",
             "post_comments_text": "415 Comments",
@@ -1523,12 +1414,12 @@
         "column_PkLqfV": {
           "type": "column",
           "settings": {
-            "post_author": "Jason Park",
-            "post_author_avatar": "shopify://shop_images/5a4ad2a8-9e68-4394-910b-e2f10850e1d9_-_Copy.png",
+            "post_author": "Jason P.",
+            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "1 Day ago",
-            "post_text": "<p>Our trainer suggested mental stimulation to help with my pup's destructive chewing, and this bowl delivered exactly that. I started freezing pumpkin puree and yogurt inside the center compartment, and it keeps him occupied for ages! He’s so focused on the 'puzzle' that he completely forgets about the couch arms or my shoes. It’s become our go-to tool for keeping him calm and happy when we’re busy around the house</p>",
-            "post_image": "shopify://shop_images/2.png",
+            "post_text": "<p>It stays quiet enough for work calls and doesn't take over my desk. The airflow feels strong without making the room feel cluttered.</p>",
+            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "2.1k",
             "post_comments_text": "236 Comments",
@@ -1545,12 +1436,12 @@
         "column_BgX46J": {
           "type": "column",
           "settings": {
-            "post_author": "Emily ChenEmily Chen",
-            "post_author_avatar": "shopify://shop_images/lady_1_prod.webp",
+            "post_author": "Emily C.",
+            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "5h ago",
-            "post_text": "<p>The hybrid design of the lick mat and the rolling ball is brilliant. Most slow feeders are either too easy or a nightmare to clean, but this one hits the sweet spot. The suction base is incredibly strong—no more sliding across the kitchen floor—and the silicone material makes cleanup a breeze. I love that I can serve liquid treats and thick pastes at the same time. It’s the most effective tool I’ve found for managing a high-energy eater</p>",
-            "post_image": "shopify://shop_images/3.png",
+            "post_text": "<p>Easy to clean, easy to move, and it fits better than the bulky fan we had before. It is a small upgrade that makes a big difference.</p>",
+            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "1.1k",
             "post_comments_text": "236 Comments",
@@ -1574,7 +1465,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Facebook testimonials",
+        "title": "Customer Reviews",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#f9efff",
@@ -1661,10 +1552,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "Will this work for my large/small dog?",
+            "heading": "Is it safe around kids and pets?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Yes! The bowl works for all breeds and sizes — from Chihuahuas to Golden Retrievers. The 180ml capacity is perfect for enrichment sessions. For larger dogs, just refill if needed.</p>",
+            "row_content": "<p>Yes. The bladeless design removes exposed spinning blades, which makes it a better fit for busy homes and smaller spaces.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1673,10 +1564,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "What treats can I put in it?",
+            "heading": "Is it quiet enough for a bedroom?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Bone broth, plain yogurt, pumpkin puree, peanut butter (xylitol-free), wet food — any liquid or semi-liquid treat. Freeze it for a longer-lasting challenge.</p>",
+            "row_content": "<p>It is designed for everyday comfort and quieter use. Start on a lower setting at night and increase airflow if needed.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1685,10 +1576,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "How long will it keep my dog busy?",
+            "heading": "Can I adjust the airflow?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Most dogs stay engaged for 15-30 minutes with liquid treats. Frozen treats can last up to an hour. Way better than the 5 seconds with a regular bowl.</p>",
+            "row_content": "<p>Yes. Use the controls to choose a gentler or stronger breeze depending on the room.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1697,10 +1588,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "Is the rolling ball a choking hazard?",
+            "heading": "Where does it work best?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>No. The ball is securely enclosed inside the bowl and cannot be removed during normal use. Always supervise your dog during first use.</p>",
+            "row_content": "<p>Bedrooms, offices, desks, living rooms, and other spaces where you want cool air without a bulky fan.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1709,10 +1600,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "Is it easy to clean?",
+            "heading": "How do I clean it?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Dishwasher safe (top rack). The ball pops out for easy hand washing. We recommend cleaning after each use.</p>",
+            "row_content": "<p>Wipe the exterior with a soft cloth and follow the product instructions for any removable parts.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1721,10 +1612,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "What is it made of?",
+            "heading": "What makes bladeless better?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>100% food-grade silicone, BPA-free and non-toxic. The same material used in baby products and kitchen tools. Completely safe for daily use.</p>",
+            "row_content": "<p>No exposed blades, a cleaner look, and easier day-to-day maintenance in tighter spaces.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1733,10 +1624,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "What if my dog doesn't like it?",
+            "heading": "Shipping & Delivery",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>We offer a 90-day money-back guarantee. But most dogs take to it immediately — try starting with peanut butter, it works every time.</p>",
+            "row_content": "<p>Processing time: 1-2 business days<br/>Standard shipping (US): 10-14 business days<br/>International: 10-20 business days</p>",
             "page": ""
           },
           "blocks": {}
@@ -1756,7 +1647,7 @@
         "display_id": false,
         "visibility": "always-display",
         "caption": "",
-        "title": "<strong>F.A.Qs</strong>",
+        "title": "<strong>FAQ</strong>",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#f9efff",
@@ -1843,7 +1734,6 @@
   },
   "order": [
     "main",
-    "logo_list_iRtUiA",
     "horizontal_ticker_XgCKQ8",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "custom_columns_new_giXnD8",
