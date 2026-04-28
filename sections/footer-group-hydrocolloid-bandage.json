@@ -1,17 +1,8 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
-  "name": "t:sections.footer.name",
+  "name": "Hydrocolloid footer",
   "type": "footer",
   "sections": {
-    "section_divider_eVcPCA": {
+    "section_divider_hydrocolloid_bandage": {
       "type": "section-divider",
       "name": "Section divider",
       "settings": {
@@ -20,14 +11,14 @@
         "flip_horizontal": false,
         "flip_vertical": false,
         "shape_color": "custom",
-        "custom_shape_color": "#333fba",
+        "custom_shape_color": "#00A8B5",
         "background_color": "background-1",
         "custom_background_color": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "footer": {
+    "footer_hydrocolloid_bandage": {
       "type": "footer",
       "blocks": {
         "email_signup_98JYgV": {
@@ -96,7 +87,7 @@
     }
   },
   "order": [
-    "section_divider_eVcPCA",
-    "footer"
+    "section_divider_hydrocolloid_bandage",
+    "footer_hydrocolloid_bandage"
   ]
 }
