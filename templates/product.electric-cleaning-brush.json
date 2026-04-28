@@ -386,13 +386,13 @@
         "variant_picker": {
           "type": "product_product-variant-picker-block",
           "settings": {
-            "picker_types": "pills",
+            "picker_types": "swatches",
             "custom_labels": "",
             "skip_unavailable": false,
             "append": "option_1_label_container",
             "swatches_size": "small",
-            "swatches_custom_colors": "disabled",
-            "swatches_custom_colors_list": "",
+            "swatches_custom_colors": "custom",
+            "swatches_custom_colors_list": "White = #FFFFFF, Mint Green = #C7F0DC",
             "full_width_dropdowns": false,
             "breaks_style": "normal",
             "breaks_headline": "BUNDLE & SAVE",
