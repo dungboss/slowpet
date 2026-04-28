@@ -7,6 +7,21 @@
     assign product = section.settings.product
   endif
 %}
+{% if template == 'product.hydrocolloid-bandage' %}
+  {% style %}
+    #sticky-atc-separate-price-{{ section.id }} .price-item--regular,
+    #sticky-atc-separate-price-{{ section.id }} .price-item--sale {
+      color: #00A8B5 !important;
+    }
+
+    #sticky-atc-separate-price-{{ section.id }} .price__badge-sale,
+    #sticky-atc-separate-price-{{ section.id }} .price__badge-custom {
+      background-color: #00A8B5 !important;
+      border-color: #00A8B5 !important;
+      color: #ffffff !important;
+    }
+  {% endstyle %}
+{% endif %}
 {% if block.settings.enable_custom_btn_color %}
   {% style %}
     #sticky-atc-{{ section.id }} .button {

@@ -3,6 +3,20 @@
     assign product = section.settings.product
   endif
 %}
+{% if template == 'product.hydrocolloid-bandage' %}
+  {% style %}
+    #main-price-{{ block.id }} .main-price {
+      color: #00A8B5 !important;
+    }
+
+    #main-price-{{ block.id }} .price__badge-sale,
+    #main-price-{{ block.id }} .price__badge-custom {
+      background-color: #00A8B5 !important;
+      border-color: #00A8B5 !important;
+      color: #ffffff !important;
+    }
+  {% endstyle %}
+{% endif %}
 <div
   class="no-js-hidden product-page-price"
   id="price-{{ section.id }}"
