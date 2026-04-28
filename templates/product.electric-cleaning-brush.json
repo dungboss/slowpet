@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -588,6 +597,7 @@
           "name": "Image",
           "settings": {
             "image": "shopify://shop_images/Screenshot_2025-04-02_at_19.21.02.webp",
+            "use_product_image_fallback": false,
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -1268,11 +1278,12 @@
             "horizontal_mobile_padding": 14
           },
           "blocks": {
-            "image_w3P2bK": {
+            "image_6bbxnN": {
               "type": "image",
+              "name": "Image",
               "settings": {
-                "image": "shopify://shop_images/71X3Z94jGxL._AC_SX679.jpg",
-                "use_product_image_fallback": true,
+                "image": "shopify://shop_images/351dc876-9b15-4767-8aea-0ab3e3542daf.png",
+                "use_product_image_fallback": false,
                 "width": 100,
                 "alignment": "center",
                 "mobile_alignment": "center",
@@ -1284,7 +1295,7 @@
             }
           },
           "block_order": [
-            "image_w3P2bK"
+            "image_6bbxnN"
           ]
         },
         "column_rgMUzg": {
@@ -1468,36 +1479,36 @@
         "title": "Facebook testimonials",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_1_bg-color": "#F9EFFF",
-        "title_highlight_1_color": "#6D388B",
+        "title_highlight_1_bg-color": "#f9efff",
+        "title_highlight_1_color": "#6d388b",
         "highlighted-1_border_radius": 8,
         "highlighted-1_border_width": 0,
         "highlighted-1_border": "solid",
-        "highlighted-1_border_color": "#6D388B",
+        "highlighted-1_border_color": "#6d388b",
         "highlighted-1_padding-block": 0.3,
         "highlighted-1_padding-inline": 0.3,
         "title_highlight_1_underline-thickness": 2,
-        "title_highlight_1_underline-color": "#6D388B",
+        "title_highlight_1_underline-color": "#6d388b",
         "title_highlight_1_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_underline-color-position": 25,
-        "title_highlight_1_handwritten-color": "#6D388B",
+        "title_highlight_1_handwritten-color": "#6d388b",
         "title_highlight_1_handwritten-stroke-width": 3,
         "title_highlight_1_handwritten-position": 60,
         "title_highlight_2": "none",
         "title_highlight_2_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
-        "title_highlight_2_bg-color": "#F9EFFF",
-        "title_highlight_2_color": "#6D388B",
+        "title_highlight_2_bg-color": "#f9efff",
+        "title_highlight_2_color": "#6d388b",
         "highlighted-2_border_radius": 8,
         "highlighted-2_border_width": 0,
         "highlighted-2_border": "solid",
-        "highlighted-2_border_color": "#6D388B",
+        "highlighted-2_border_color": "#6d388b",
         "highlighted-2_padding-block": 0.3,
         "highlighted-2_padding-inline": 0.3,
         "title_highlight_2_underline-thickness": 2,
-        "title_highlight_2_underline-color": "#6D388B",
+        "title_highlight_2_underline-color": "#6d388b",
         "title_highlight_2_underline-color--gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_2_underline-color-position": 25,
-        "title_highlight_2_handwritten-color": "#6D388B",
+        "title_highlight_2_handwritten-color": "#6d388b",
         "title_highlight_2_handwritten-stroke-width": 3,
         "title_highlight_2_handwritten-position": 60,
         "heading_size": "h1",
@@ -1507,9 +1518,9 @@
         "margin_bottom": 15,
         "text": "",
         "color_scheme": "background-2",
-        "custom_colors_background": "#F3F3F3",
+        "custom_colors_background": "#f3f3f3",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "type": "slide",
         "autoplay": false,
         "autoplay_speed": 5,
@@ -1533,9 +1544,9 @@
         "mobile_arrows_position": "under",
         "post_bg_color": "#ffffff",
         "post_text_color": "#101010",
-        "comments_bg_color": "#F0F2F5",
+        "comments_bg_color": "#f0f2f5",
         "separators_color": "#a4b0be",
-        "post_border_color": "#DFDFDF",
+        "post_border_color": "#dfdfdf",
         "border_width": 1,
         "like_label": "Like",
         "comment_label": "Comment",
