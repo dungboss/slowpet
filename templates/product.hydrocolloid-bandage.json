@@ -903,6 +903,14 @@
     "logo_list_iRtUiA": {
       "type": "logo-list",
       "blocks": {
+        "logo_yj8Hpq": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
         "logo_jJTFxF": {
           "type": "logo",
           "settings": {
@@ -914,23 +922,16 @@
         "logo_NRfhcq": {
           "type": "logo",
           "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_j8nYyC": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/daily-paws-logo-png_seeklogo-505663.avif",
+            "image": "shopify://shop_images/buzzfeed-logo-featured.webp",
             "link": "",
             "target_blank": false
           }
         }
       },
       "block_order": [
+        "logo_yj8Hpq",
         "logo_jJTFxF",
-        "logo_NRfhcq",
-        "logo_j8nYyC"
+        "logo_NRfhcq"
       ],
       "name": "Featured on",
       "settings": {
