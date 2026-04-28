@@ -987,7 +987,7 @@
         "columns_mobile": 3,
         "mobile_logo_height": 70,
         "mobile_slider": true,
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 5,
         "show_dots": true,
         "padding_top": 36,
