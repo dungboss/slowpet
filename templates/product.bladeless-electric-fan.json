@@ -936,16 +936,6 @@
         "video_slide_hxCnyh": {
           "type": "image_slide",
           "settings": {
-            "image": null,
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
             "description": "<p>Bladeless design keeps the look clean and modern.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -954,16 +944,6 @@
         "video_slide_JgrBd7": {
           "type": "image_slide",
           "settings": {
-            "image": null,
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
             "description": "<p>Quiet airflow for bedrooms, desks, and workspaces.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -972,16 +952,6 @@
         "video_slide_9M8frX": {
           "type": "image_slide",
           "settings": {
-            "image": null,
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
             "description": "<p>Compact shape fits neatly into smaller rooms.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -990,16 +960,6 @@
         "video_slide_fkDcwE": {
           "type": "image_slide",
           "settings": {
-            "image": null,
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
             "description": "<p>Easy-to-clean exterior for everyday use.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -1272,7 +1232,6 @@
             "image_dTEXhz": {
               "type": "image",
               "settings": {
-                "image": null,
                 "width": 100,
                 "alignment": "center",
                 "mobile_alignment": "center",
@@ -1393,11 +1352,9 @@
           "type": "column",
           "settings": {
             "post_author": "Sarah M.",
-            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "22h ago",
             "post_text": "<p>I put this in our bedroom and it instantly felt more comfortable. The bladeless design looks cleaner, and I like not having exposed blades around the kids.</p>",
-            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "892",
             "post_comments_text": "415 Comments",
@@ -1415,11 +1372,9 @@
           "type": "column",
           "settings": {
             "post_author": "Jason P.",
-            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "1 Day ago",
             "post_text": "<p>It stays quiet enough for work calls and doesn't take over my desk. The airflow feels strong without making the room feel cluttered.</p>",
-            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "2.1k",
             "post_comments_text": "236 Comments",
@@ -1437,11 +1392,9 @@
           "type": "column",
           "settings": {
             "post_author": "Emily C.",
-            "post_author_avatar": null,
             "post_author_verified": false,
             "post_time": "5h ago",
             "post_text": "<p>Easy to clean, easy to move, and it fits better than the bulky fan we had before. It is a small upgrade that makes a big difference.</p>",
-            "post_image": null,
             "post_reactions": "like, love, care",
             "post_reactions_text": "1.1k",
             "post_comments_text": "236 Comments",
