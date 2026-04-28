@@ -361,6 +361,21 @@
           },
           "blocks": {}
         },
+        "promo_discount_line": {
+          "type": "text",
+          "name": "Promo discount line",
+          "settings": {
+            "text": "<p><strong>30% OFF + Extra 20% Mom's Day Discount</strong></p>",
+            "alignment": "left",
+            "mobile_alignment": "mobile-left",
+            "text_size": 14,
+            "enable_custom_color": true,
+            "custom_text_color": "#DD1D1D",
+            "margin_top": 0,
+            "margin_bottom": 0
+          },
+          "blocks": {}
+        },
         "price": {
           "type": "product_price",
           "settings": {
@@ -378,7 +393,7 @@
             "filled_icon_1": false,
             "icon_2": "check_circle",
             "filled_icon_2": false,
-            "margin_top": 9,
+            "margin_top": 0,
             "margin_bottom": 15
           },
           "blocks": {}
@@ -807,6 +822,7 @@
         "text_with_icon_ccrn9E",
         "text_with_icon_tCpaB8",
         "text_with_icon_gYCjez",
+        "promo_discount_line",
         "price",
         "variant_picker",
         "kaching_bundles_app_block_mzfMkY",
