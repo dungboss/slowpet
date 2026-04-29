@@ -604,6 +604,7 @@
         "image_c7AM3h": {
           "type": "image",
           "name": "Image",
+          "disabled": true,
           "settings": {
             "use_product_image_fallback": false,
             "width": 100,
@@ -1023,7 +1024,7 @@
         "testi_1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_7.png",
+            "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_10.png",
             "star_rating": 5,
             "title": "Incredible transformation!",
             "text": "<p>\"I've struggled with dark circles my whole life. After 3 weeks of using RevitalEyes every morning, people started asking if I'd been on vacation. This device is life-changing!\"</p>",
@@ -1353,9 +1354,33 @@
             "horizontal_mobile_padding": 14
           },
           "blocks": {
+            "video_kBbXAa": {
+              "type": "video",
+              "name": "Video",
+              "disabled": true,
+              "settings": {
+                "loop": true,
+                "muted_autoplay": true,
+                "display_play_btn": false,
+                "btn_animation": false,
+                "btn_color_scheme": "accent-1",
+                "display_sound_btn": false,
+                "sound_btn_color_scheme": "inverse",
+                "display_timeline": false,
+                "timeline_color": "accent-1",
+                "width": 100,
+                "Full_mobile_width": false,
+                "alignment": "center",
+                "border_radius": 0,
+                "margin_top": 15,
+                "margin_bottom": 15
+              },
+              "blocks": {}
+            },
             "image_dTEXhz": {
               "type": "image",
               "settings": {
+                "image": "shopify://shop_images/b1d1ec63-a944-4b29-a01a-ca826c62f373.avif",
                 "use_product_image_fallback": false,
                 "width": 100,
                 "alignment": "center",
@@ -1368,6 +1393,7 @@
             }
           },
           "block_order": [
+            "video_kBbXAa",
             "image_dTEXhz"
           ]
         },
@@ -1476,11 +1502,12 @@
         "review_1": {
           "type": "column",
           "settings": {
-            "post_author": "Sarah M.",
+            "post_author": "Charlotte Dubois",
+            "post_author_avatar": "shopify://shop_images/0AC7DD7B-523F-4280-860A-E849117B4130_4_5005_c.jpg",
             "post_author_verified": true,
             "post_time": "2 weeks ago",
             "post_text": "<p>I've been using RevitalEyes for 3 weeks and the difference is incredible! My dark circles are so much lighter and the puffiness I used to wake up with is basically gone. I was skeptical at first but this thing actually works. Worth every penny! ⭐⭐⭐⭐⭐</p>",
-            "post_video": "shopify://files/videos/beauty device dark circles le care device usb - Temu Brazil (1).mp4",
+            "post_image": "shopify://shop_images/7e7c9cf0-04f2-4f2b-8a31-a4e2bb940cdb.avif",
             "post_reactions": "like, love, care",
             "post_reactions_text": "148",
             "post_comments_text": "23 Comments",
@@ -1497,11 +1524,12 @@
         "review_2": {
           "type": "column",
           "settings": {
-            "post_author": "Jennifer K.",
+            "post_author": "Eleanor Kensington",
+            "post_author_avatar": "shopify://shop_images/Phu-Nu-Trung-Nien.jpg",
             "post_author_verified": true,
             "post_time": "1 month ago",
             "post_text": "<p>As someone who's tried every eye cream under the sun, I was hesitant to try a device. But WOW. The fine lines around my eyes have visibly reduced after just 4 weeks of daily use. My friends keep asking what I'm doing differently. This is my secret weapon! 💕</p>",
-            "post_image": "shopify://shop_images/5760b1e7f99b78c5218a.jpg",
+            "post_image": "shopify://shop_images/83C2127F-163B-40AF-9AD7-E6E64E223B67_1_201_a.jpg",
             "post_reactions": "like, love, care",
             "post_reactions_text": "203",
             "post_comments_text": "31 Comments",
@@ -1518,7 +1546,8 @@
         "review_3": {
           "type": "column",
           "settings": {
-            "post_author": "Michelle T.",
+            "post_author": "Mia Nielsen",
+            "post_author_avatar": "shopify://shop_images/phu-nu-trung-nien-1-1652.jpg",
             "post_author_verified": true,
             "post_time": "3 weeks ago",
             "post_text": "<p>I'm a nurse and I've seen red light therapy used clinically. Having this technology at home is a game changer. My patients always ask about my skin and I tell them about RevitalEyes. The results speak for themselves. FDA cleared gives me peace of mind.</p>",
@@ -1539,11 +1568,12 @@
         "review_4": {
           "type": "column",
           "settings": {
-            "post_author": "Amanda R.",
+            "post_author": "Emma Fischer",
+            "post_author_avatar": "shopify://shop_images/2_12.webp",
             "post_author_verified": true,
             "post_time": "3 days ago",
             "post_text": "<p>Just 10 minutes every morning for 2 weeks and my under-eye area looks completely transformed. The bags are gone and I look so much more awake and refreshed. My sister ordered one after seeing me. Best beauty investment I've ever made! 🙌</p>",
-            "post_video": "shopify://files/videos/beauty device dark circles le care device usb - Temu Brazil.mp4",
+            "post_image": "shopify://shop_images/7a7f950c-d881-4416-874d-e956190cd519.avif",
             "post_reactions": "like, love, care",
             "post_reactions_text": "91",
             "post_comments_text": "14 Comments",
@@ -1654,10 +1684,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "How long before I see results?",
+            "heading": "When can I expect to see improvements?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Most customers notice a visible difference within 2–3 weeks of consistent daily use. For best results, use RevitalEyes for 10 minutes each morning. Clinical studies show optimal results are achieved after 4–6 weeks of regular use. Many users report reduced puffiness within the first week!</p>",
+            "row_content": "<p>While the soothing heat provides immediate relief from digital eye strain, lasting visible changes take a little time. By committing to a 10-minute daily routine, most users notice a significant difference in skin firmness and dark circles within 3 to 4 weeks.</p><p>Remember, consistency is the key to unlocking the full potential of Red Light and EMS therapy. </p><p><em>Note: Ensure your skin is moistened with water, gel, or serum before wearing the device for optimal micro-electric conductivity.</em></p>",
             "page": ""
           },
           "blocks": {}
@@ -1666,10 +1696,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "Is it safe to use around the eyes?",
+            "heading": "Is the device safe for the delicate under-eye skin?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes! RevitalEyes is FDA cleared and specifically designed for the delicate under-eye area. The wavelengths used (660nm and 590nm) are completely safe for use near the eyes and have been used in clinical settings for decades. Always keep the device at least 1cm from your eyelids and do not look directly into the light during use.</p>",
+            "row_content": "<p>Yes. Being an <strong>FDA-cleared</strong> instrument, it meets strict safety and quality standards. The device is engineered to deliver controlled micro-currents and soothing heat specifically to the surrounding skin, without applying pressure to the eyes themselves.</p><p>For maximum safety and comfort: Always start on the lowest intensity setting. Ensure the device sits comfortably away from your eyelids, and keep your eyes closed to fully enjoy the spa-like experience.</p>",
             "page": ""
           },
           "blocks": {}
@@ -1678,10 +1708,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "How often should I use RevitalEyes?",
+            "heading": "How often should I use my device?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>We recommend using RevitalEyes once daily for 10 minutes. Consistency is key — make it part of your morning skincare routine for the best results. You can safely use it up to twice daily if desired, but most customers achieve excellent results with once-daily use.</p>",
+            "row_content": "<p>For the best results, we recommend a relaxing <strong>10-minute session once a day</strong>. Consistency is key! Make it a staple in your daily skincare routine—whether in the morning to reduce puffiness or at night to unwind.</p><p>While once daily is perfect for most, you can safely use it up to twice a day if desired. </p><p><em>Pro Tip: Always apply a water-based serum or gel before use to fully activate the micro-current (EMS) technology!</em></p><h3></h3>",
             "page": ""
           },
           "blocks": {}
@@ -1714,10 +1744,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "How do I charge RevitalEyes?",
+            "heading": "How do I charge the device?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>RevitalEyes charges via USB-C (cable included). A full charge takes approximately 1.5 hours and provides up to 30 days of daily use (one 10-minute session per day). An LED indicator shows you the battery status — red means charging, green means fully charged. Perfect for travel too!</p>",
+            "row_content": "<p>The device is fully rechargeable via the included USB cable. A complete charge takes approximately 1.5 hours and provides enough power for multiple 10-minute spa sessions (battery life varies slightly depending on your heat and EMS settings). An intuitive LED indicator makes it easy to monitor your charging status. Its cordless and lightweight design makes it the perfect travel companion for your skincare routine!</p>",
             "page": ""
           },
           "blocks": {}
@@ -1726,10 +1756,10 @@
           "type": "collapsible-row-content",
           "settings": {
             "open": false,
-            "heading": "Is RevitalEyes suitable for all skin types?",
+            "heading": "Is the device suitable for all skin types?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes! RevitalEyes is designed for all skin types including sensitive skin. The 660nm red light and 590nm amber light wavelengths are gentle, non-thermal, and safe for all skin tones. If you have any specific medical conditions affecting your eyes or skin, please consult your healthcare provider before use.</p>",
+            "row_content": "<p>Yes! The device is designed to be gentle and effective for all skin types, including sensitive skin. The red light therapy is perfectly safe for all skin tones. Because the device features adjustable micro-electric (EMS) and soothing heating modes, you can easily customize the intensity to match your skin's specific comfort level. As a standard precaution, if you have any specific medical conditions affecting your eyes or skin, please consult your healthcare provider before use.</p>",
             "page": ""
           },
           "blocks": {}
