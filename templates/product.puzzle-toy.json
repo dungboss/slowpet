@@ -1046,7 +1046,7 @@
         "video_slide_hxCnyh": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/0505 (2)(2).mp4",
+            "video": "shopify://files/videos/0505 (3).mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1064,7 +1064,7 @@
         "video_slide_JgrBd7": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/0505 (2)(1).mp4",
+            "video": "shopify://files/videos/0505 (3)(1).mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1082,7 +1082,7 @@
         "video_slide_9M8frX": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/0505 (2).mp4",
+            "video": "shopify://files/videos/0505 (3)(2).mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
