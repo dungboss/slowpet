@@ -918,20 +918,11 @@
             "link": "",
             "target_blank": false
           }
-        },
-        "logo_j8nYyC": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/daily-paws-logo-png_seeklogo-505663.avif",
-            "link": "",
-            "target_blank": false
-          }
         }
       },
       "block_order": [
         "logo_MQweyJ",
-        "logo_mFEwUm",
-        "logo_j8nYyC"
+        "logo_mFEwUm"
       ],
       "name": "Featured on",
       "settings": {
