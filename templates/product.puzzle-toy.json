@@ -597,6 +597,7 @@
           "name": "Image",
           "settings": {
             "image": "shopify://shop_images/Screenshot_2025-04-02_at_19.21.02.webp",
+            "use_product_image_fallback": false,
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -1095,31 +1096,12 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
-        },
-        "video_slide_fkDcwE": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/POV 3.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
         }
       },
       "block_order": [
         "video_slide_hxCnyh",
         "video_slide_JgrBd7",
-        "video_slide_9M8frX",
-        "video_slide_fkDcwE"
+        "video_slide_9M8frX"
       ],
       "settings": {
         "display_id": false,
@@ -1378,10 +1360,12 @@
             "horizontal_mobile_padding": 14
           },
           "blocks": {
-            "image_dTEXhz": {
+            "image_t8KhiP": {
               "type": "image",
+              "name": "Image",
               "settings": {
-                "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_4_1_1_1.gif",
+                "image": "shopify://shop_images/Thi_t_k_ch_a_co_ten_1_fb6bad4c-0a13-4994-90d3-35f8b12cccfc.png",
+                "use_product_image_fallback": false,
                 "width": 100,
                 "alignment": "center",
                 "mobile_alignment": "center",
@@ -1393,7 +1377,7 @@
             }
           },
           "block_order": [
-            "image_dTEXhz"
+            "image_t8KhiP"
           ]
         },
         "column_rgMUzg": {
